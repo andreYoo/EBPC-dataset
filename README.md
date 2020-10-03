@@ -1,5 +1,5 @@
-# CED-algorithm
-Conquer-Evaluation-Divide (CED) algorithm and the chaotic dataset
+# EBPC-dataset
+algorithm for making the Extremely Biased and Poorly Categorized (EBPC) dataset
 
 * Combine the classification dataset to make a huge and chaotic dataset
 
